@@ -1,6 +1,6 @@
 # To_Do_List
 # Ex03 To-Do List using JavaScript
-## Date:
+## Date: 17.11.2026
 
 ## AIM
 To create a To-do Application with all features using JavaScript.
@@ -83,6 +83,7 @@ Upload to GitHub Pages for free hosting.
 ## PROGRAM
 #index.html
 
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -129,10 +130,11 @@ Upload to GitHub Pages for free hosting.
 
 </body>
 </html>
+```
 
 #style.css
 
-
+```
 * {
     box-sizing: border-box;
 }
@@ -310,10 +312,11 @@ li input[type="checkbox"] {
         flex-wrap: wrap;
     }
 }
-
+```
 
 #script.js
 
+```
 let tasks = [];
 
 try {
@@ -473,7 +476,7 @@ document.getElementById("clear")
     });
 
 displayTasks();
-
+```
 
 ## OUTPUT
 
