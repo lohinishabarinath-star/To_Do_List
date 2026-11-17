@@ -10,17 +10,6 @@ To create a To-do Application with all features using JavaScript.
 Build the HTML structure (index.html).
 
 ### STEP 2
-Style the App (style.css).# Ex03 To-Do List using JavaScript
-## Date:
-
-## AIM
-To create a To-do Application with all features using JavaScript.
-
-## ALGORITHM
-### STEP 1
-Build the HTML structure (index.html).
-
-### STEP 2
 Style the App (style.css).
 
 ### STEP 3
